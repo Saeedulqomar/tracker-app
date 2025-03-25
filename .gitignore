@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# SSH keys (Important!)
+my-ec2-key.pem
+my-ec2-key.ppk
